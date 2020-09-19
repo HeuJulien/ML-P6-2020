@@ -1,8 +1,7 @@
 # ML-P6-2020  
   
-## Course's notes  
-The notes on the first course can be found at :  
-https://www.overleaf.com/read/kgmgjbfnxdww  
+## Lecture's notes  
+The lecture's notes can be found in their respective folders
 
 ## Seminars
 During the semester there will be 4 seminars where researchers will present you their work and how they use machine learning.  
