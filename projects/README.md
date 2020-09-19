@@ -14,15 +14,13 @@ If you're interested in specific research fields (condensed matter, biophysics, 
   
 ### SUSY dataset
 
-IMAGE SUSYbenchmark.png
-
+![](SUSYbenchmark.png)
 * Dataset : https://archive.ics.uci.edu/ml/datasets/SUSY
 
 ### ISING
 
-ISINGpara.png
-
-ISINGferro.png
+![](ISINGferro.png)
+![](ISINGpara.png)
 
 * Dataset : 
   * Homemade
@@ -30,7 +28,7 @@ ISINGferro.png
   
 ### Exoplanets
 
-exoplanet.png
+![](exoplanet.png)
 
 * Dataset :
   * https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data
@@ -38,7 +36,7 @@ exoplanet.png
 
 ### Pulsars
 
-pulsars.png
+![](pulsars.jpg)
 
 * Dataset :
   * https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star (pulsar)
@@ -46,16 +44,16 @@ pulsars.png
 
 ### Molecular Dynamics
 
-zundel
-zundelNN
+![](zundel.png)
+![](zundelNN.png)
 
 * Dataset : Given
 * More info : https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.146401
 
 ### Chaotic Mackey-Glass series
 
-mackeyglass
-mackeyglasseq
+![](mackeyglass.png)
+![](mackeyglasseq.png)
 
 * Dataset : Given
 * More info : https://en.wikipedia.org/wiki/Mackey-Glass_equations
