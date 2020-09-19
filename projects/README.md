@@ -55,7 +55,7 @@ If you're interested in specific research fields (condensed matter, biophysics, 
 ![](mackeyglass.png)
 ![](mackeyglasseq.png)
 
-* Dataset : Given
+* Dataset : Homemade
 * More info : https://en.wikipedia.org/wiki/Mackey-Glass_equations
 
   
