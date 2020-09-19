@@ -19,6 +19,7 @@ If you're interested in specific research fields (condensed matter, biophysics, 
 
 ### ISING
 
+![](ISINGeq.png)  
 ![](ISINGferro.png)
 ![](ISINGpara.png)
 
