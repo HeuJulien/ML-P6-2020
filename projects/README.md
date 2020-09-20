@@ -11,11 +11,19 @@ If you are looking for datasets/ideas, you could look at :
 
 If you're interested in specific research fields (condensed matter, biophysics, etc) we can easily contact some researchers to ask them to give us some datasets.  
   
-  
+### Exoplanets
+
+![](exoplanet.png)
+
+* Dataset :
+  * https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data
+  * http://vizier.u-strasbg.fr/
+
 ### SUSY dataset
 
 ![](SUSYbenchmark.png)
 * Dataset : https://archive.ics.uci.edu/ml/datasets/SUSY
+* More info : https://arxiv.org/abs/1803.08823
 
 ### ISING
 
@@ -27,14 +35,6 @@ If you're interested in specific research fields (condensed matter, biophysics, 
   * Homemade
   * https://physics.bu.edu/~pankajm/ML-Review-Datasets/isingMC/
   
-### Exoplanets
-
-![](exoplanet.png)
-
-* Dataset :
-  * https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data
-  * http://vizier.u-strasbg.fr/
-
 ### Pulsars
 
 ![](pulsars.jpg)
