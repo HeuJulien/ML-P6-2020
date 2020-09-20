@@ -29,10 +29,11 @@ I highly recommend this article :
 A high-bias, low-variance introduction to Machine Learning for physicists, P. Mehta & al  
 https://arxiv.org/abs/1803.08823  
 
-## Old resources from last year's course  
-A lot of resources can be found at :  
-https://github.com/krzakala/ml_P6_2019_web  
-(The TPs you'll find there won't be the ones you'll have to do in class)  
+## Other ressources  
+* Last year course : https://github.com/krzakala/ml_P6_2019_web (The TPs you'll find there won't be the ones you'll have to do in class)  
+* Course on computational science : http://www.lps.ens.fr/~krzakala/m2.html
+* Other ML course : https://www.di.ens.fr/~fbach/ML_physique.html
+Most of the lectures have been based on those courses
 
 ## Contact
 Heu Julien  
