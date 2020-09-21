@@ -6,7 +6,7 @@ The lecture's notes can be found in their respective folders
 ## TP
 * It is recommended (but not mandatory) to work in groups of two
 * You are encouraged to bring your own laptop 
-* You should create your own GitHub account and upload your notebooks/projects there
+* You should create your own GitHub account and upload your notebooks/projects there (a great guide : https://rogerdudler.github.io/git-guide/ )  
 * You'll have to send (or upload on GitHub) your TP's notebook  regularly (dates will be updated)
 
 ## Seminars
