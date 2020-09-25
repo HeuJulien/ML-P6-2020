@@ -35,7 +35,7 @@ https://arxiv.org/abs/1803.08823
 * Course on computational science : http://www.lps.ens.fr/~krzakala/m2.html
 * Other ML course : https://www.di.ens.fr/~fbach/ML_physique.html  
 Most of the lectures have been based on those courses
-
+* Simple Unix commands : https://www.lmd.jussieu.fr/~flott/polytechnique/mec583_08/linux_vi_f77.pdf
 ## Contacts
 Heu Julien  
 julien.heu@upmc.fr  
