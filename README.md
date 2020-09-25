@@ -36,7 +36,11 @@ https://arxiv.org/abs/1803.08823
 * Other ML course : https://www.di.ens.fr/~fbach/ML_physique.html  
 Most of the lectures have been based on those courses
 
-## Contact
+## Contacts
 Heu Julien  
 julien.heu@upmc.fr  
 23-24 318  
+
+Timothée Devergne
+timothee.devergne@upmc.fr
+23-24 318
