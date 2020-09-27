@@ -34,7 +34,7 @@ See from last course :
   
   
   
-![](bias_variance_opti.png)  
+![](bias_variance_opti.png) Model Complexity ~ Liberty of parameters
   
   
   
