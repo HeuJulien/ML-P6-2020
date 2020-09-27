@@ -11,7 +11,9 @@ See from last course :
 ![](bias_variance_opti.png) Model Complexity ~ Liberty of parameters
 ![](bias_variance_targets.jpeg)  
 
-![](lasso_ridge.png)
+![](lasso_ridge.png)  
+Idealised cases  
+ 
 ![](lasso.png)
 ![](ridge.png)
 
