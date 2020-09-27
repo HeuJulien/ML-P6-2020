@@ -13,6 +13,7 @@ See from last course :
 
 ![](lasso_ridge.png)  
 Idealised cases  
+Coefficients can be negatives  
  
 ![](lasso.png)
 ![](ridge.png)
