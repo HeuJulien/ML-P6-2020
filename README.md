@@ -12,11 +12,10 @@ The lecture's notes can be found in their respective folders
 
 ## Seminars
 During the semester there will be 4 seminars where researchers will present you their work and how they use machine learning  
-* 05/10 : A. Marco Saitta // Condensed Matter  
-* 19/10 : Martin Weigt // Biophysics  
-* 02/11 : Karim Benabed // Astrophysics  
+* 02/11 : A. Marco Saitta // Condensed Matter  
+* 16/11 : Martin Weigt // Biophysics  
 * 23/11 : Bertrand Laforge // Elementary particles    
-(dates still need to be confirmed)  
+* 30/11 : Karim Benabed // Astrophysics  
   
 ## Modalities  
 * 25% - TP : We do not expect you to complete all the notebooks, but the more the better
@@ -41,6 +40,6 @@ Heu Julien
 julien.heu@upmc.fr  
 23-24 318  
 
-Timothée Devergne
-timothee.devergne@upmc.fr
-23-24 318
+Timothée Devergne  
+timothee.devergne@upmc.fr  
+23-24 318  
