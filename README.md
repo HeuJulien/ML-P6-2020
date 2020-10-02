@@ -4,6 +4,7 @@
 The lecture's notes can be found in their respective folders
 
 ## TP
+* **TP0 & TP1 must be sent before Friday 09/10**
 * Room 22-23 114
 * It is recommended (but not mandatory) to work in groups of two
 * You are encouraged to bring your own laptop 
