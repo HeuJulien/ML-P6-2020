@@ -10,6 +10,9 @@ The lecture's notes can be found in their respective folders
 * You are encouraged to bring your own laptop 
 * You should create your own GitHub account and upload your notebooks/projects there (a great guide : https://rogerdudler.github.io/git-guide/ )  
 * You'll have to send (or upload on GitHub) your TP's notebook  regularly (dates will be updated)
+* Most of the TPs have been modified from :
+  * http://physics.bu.edu/~pankajm/MLnotebooks.html
+  * https://beckernick.github.io/  
 
 ## Seminars
 During the semester there will be 4 seminars where researchers will present you their work and how they use machine learning  
