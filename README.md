@@ -4,19 +4,22 @@
 The lecture's notes can be found in their respective folders
 
 ## TP
+* **TP0 & TP1 must be sent before Friday 09/10 23h59**
 * Room 22-23 114
 * It is recommended (but not mandatory) to work in groups of two
 * You are encouraged to bring your own laptop 
 * You should create your own GitHub account and upload your notebooks/projects there (a great guide : https://rogerdudler.github.io/git-guide/ )  
 * You'll have to send (or upload on GitHub) your TP's notebook  regularly (dates will be updated)
+* Most of the TPs have been modified from :
+  * http://physics.bu.edu/~pankajm/MLnotebooks.html
+  * https://beckernick.github.io/  
 
 ## Seminars
 During the semester there will be 4 seminars where researchers will present you their work and how they use machine learning  
-* 05/10 : A. Marco Saitta // Condensed Matter  
-* 19/10 : Martin Weigt // Biophysics  
-* 02/11 : Karim Benabed // Astrophysics  
+* 02/11 : A. Marco Saitta // Condensed Matter  
+* 16/11 : Martin Weigt // Biophysics  
 * 23/11 : Bertrand Laforge // Elementary particles    
-(dates still need to be confirmed)  
+* 30/11 : Karim Benabed // Astrophysics  
   
 ## Modalities  
 * 25% - TP : We do not expect you to complete all the notebooks, but the more the better
@@ -41,6 +44,6 @@ Heu Julien
 julien.heu@upmc.fr  
 23-24 318  
 
-Timothée Devergne
-timothee.devergne@upmc.fr
-23-24 318
+Timothée Devergne  
+timothee.devergne@upmc.fr  
+23-24 318  
