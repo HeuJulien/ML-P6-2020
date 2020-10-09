@@ -13,6 +13,7 @@ The lecture's notes can be found in their respective folders
 * Most of the TPs have been modified from :
   * http://physics.bu.edu/~pankajm/MLnotebooks.html
   * https://beckernick.github.io/  
+  * https://www.di.ens.fr/~fbach/ML_physique.html
 
 ## Seminars
 During the semester there will be 4 seminars where researchers will present you their work and how they use machine learning  
