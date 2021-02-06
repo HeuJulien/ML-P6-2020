@@ -40,6 +40,8 @@ https://arxiv.org/abs/1803.08823
 * Other ML course : https://www.di.ens.fr/~fbach/ML_physique.html  
 Most of the lectures have been based on those courses
 * Simple Unix commands : https://www.lmd.jussieu.fr/~flott/polytechnique/mec583_08/linux_vi_f77.pdf
+* Visualisation for CNN : https://setosa.io/ev/image-kernels/   
+https://github.com/vdumoulin/conv_arithmetic
 ## Contacts
 Heu Julien  
 julien.heu@upmc.fr  
